@@ -98,16 +98,16 @@ function Header() {
             </NavLink>
           </Nav.Item>
 
-          <Button
+          {/* <Button
             onClick={() => {
               window.open(
                 "https://drive.google.com/file/d/1LSVLVmJA_3fhWtZPc_d_pHnkXhL4s-Oc/view?usp=drive_link"
               );
             }}
             className="resumebtn"
-          >
-            <span>Resume</span>
-          </Button>
+          > */}
+            {/* <span>Resume</span>
+          </Button> */}
         </Nav>
       </Navbar.Collapse>
     </Navbar>

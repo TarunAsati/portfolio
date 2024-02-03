@@ -16,23 +16,23 @@ function Home() {
         <Row>
           <Col md={7}>
             <h2 className='headtext'>Hello <span className='wave'>👋 </span></h2>
-            <h2 className='nametext'>Im Rahul Vijay</h2>
+            <h2 className='nametext'>I'm TARUN ASATI</h2>
             <span></span>
             <Text />
             <button onClick={() => {
-              window.open("https://github.com/rahulvijay81");
+              window.open("https://github.com/TarunAsati");
             }}
               className='socailmediabtn'><AiFillGithub className='icon' /></button>
             <button onClick={() => {
-              window.open("https://www.linkedin.com/in/rahulvijay81/");
+              window.open("https://www.linkedin.com/in/tarun-asati/");
             }}
               className='socailmediabtn'><FaLinkedinIn className='icon' /></button>
             <button onClick={() => {
-              window.open("https://twitter.com/rahulvijay8156");
+              window.open("https://twitter.com/tarunasati06");
             }}
               className='socailmediabtn'><AiOutlineTwitter className='icon' /></button>
             <button onClick={() => {
-              window.open("https://instagram.com/rahulvijay81");
+              window.open("https://www.instagram.com/tarunasati_/");
             }}
               className='socailmediabtn'><AiFillInstagram className='icon' /></button>
           </Col>

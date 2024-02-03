@@ -12,18 +12,18 @@ function Contactpage() {
         <button
           className="contactbtn"
           onClick={() => {
-            window.open("https://www.linkedin.com/in/rahulvijay81/");
+            window.open("https://www.linkedin.com/in/tarun-asati/");
           }}
         >
           Connect Now 🚀
         </button>
         <span></span>
         <p className="copyright">
-          © Copyright 2023
+          © Copyright 2024
           <hr />
           Designed & Built by <span onClick={() => {
-            window.open("https://www.instagram.com/rahulvijay81/");
-          }}>rahulvijay</span>
+            window.open("https://www.instagram.com/tarunasati_/");
+          }}>Tarun Asati</span>
         </p>
       </Container>
     </div>
